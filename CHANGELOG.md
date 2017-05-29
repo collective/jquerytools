@@ -1,6 +1,9 @@
 # 1.3
 ### In Progress
 
+  - Move the ``dev`` branch to ``master`` and remove the obsolete ``dev``, ``1.3.0`` and ``I525``.
+    [thet]
+
   - Revert "check each tooltip for existence, fixes issue 349".
     This reverts commit d55f9bb714e85f9d421cbef0675602c9a16ce813.
     Fixes broken Tooltip. See discussion at
